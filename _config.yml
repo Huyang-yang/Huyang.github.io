@@ -32,7 +32,7 @@ github:
   username: Huyang-yang # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: huyang # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,7 +41,7 @@ social:
   email: wcy_huhu@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn: 'https://cdn.jsdelivr.net/gh/Huyang-yang/obs-picbed/img/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/image/icon/food-doughnut.png
+avatar: "/assets/image/icon/food-doughnut.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
