@@ -77,10 +77,11 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 
+img_cdn: 'https://cdn.jsdelivr.net/gh/Huyang-yang/obs-picbed/img/'
+
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/favicons/android-chrome-192x192.png
+avatar: 2023/04/16/android-chrome-192x192_22-56-51.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
