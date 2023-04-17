@@ -3,7 +3,7 @@ title: WebServer learning
 author: Huyang
 date: 2023-04-16 23:05:00 +0800
 categories: [Blogging, coding]
-tags: [C++]
+tags: [c++]
 math: true
 mermaid: true
 ---
